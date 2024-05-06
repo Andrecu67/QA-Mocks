@@ -8,7 +8,7 @@ import org.mockito.Mockito;
 
 public class PrestamosTest {
     /////// PASO 2
-    //  necesitamos  crear el objeto falso usando Mockito.mock(tipo de la clase)
+    //  necesitamos crear el objeto falso usando Mockito.mock(tipo de la clase)
 
     ASFIservice serviceMock = Mockito.mock(ASFIservice.class);
     Prestamos prestamos;
